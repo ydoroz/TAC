@@ -24,7 +24,7 @@ nav_exclude: true
 <mark>_Items for discussion, including items left over from the previous meetings, as well as items that have been added_
 </mark>
 
-# Project Proposals (from hyperledger/hyperledger-hips)
+# Project Proposals 
 <mark>_include any project proposals that have been submitted and need discussion or decision._
 </mark>
 
