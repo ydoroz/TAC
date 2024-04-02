@@ -1,0 +1,14 @@
+#theme: just-the-docs
+title: "PQCA TAC"
+show_downloads: "false"
+has_children: true
+has_toc: true
+remote_theme: pmarsceill/just-the-docs
+logo: "pqca-logo.png"
+url: "https://pqca.github.io/TAC/"
+footer_content: "<a href=\"https://github.com/PQCA/TAC\">Page generated from TAC repo on GitHub</a>"
+aux_links:
+  "GitHub":
+    - "//github.com/PQCA/toc"
+  "Chat":
+    - "https://discord.gg/xyVnwzfg5R/"

@@ -1,3 +1,15 @@
+---
+layout: default
+title: PQCA TAC Charter
+parent: PQCA TAC
+has_children: false
+has_toc: false
+nav_order: 3
+---
+[//]: # (SPDX-License-Identifier: CC-BY-4.0)
+
+# TAC Charter
+
 5. Technical Advisory Council
 
     a) The role of the TAC is to facilitate communication and collaboration among the Technical Projects. The TAC will be responsible for:
