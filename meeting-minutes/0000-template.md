@@ -34,7 +34,7 @@ nav_exclude: true
 
 # Upcoming TAC meetings
 
-[Please check the calendar](https://lists.hyperledger.org/g/toc/calendar)
+[Please check the calendar](https://pqca.org/calendar/)
 
 # Attended by
 
