@@ -40,7 +40,7 @@ nav_exclude: true
 
 * [ ] Norman Ashley, Cisco
 * [ ] Michael (Max)imilien, IBM
-* [ ] Sam Stanwyck, NVIDIA
+* [ ] Yarkin Doroz, NVIDIA
 * [ ] Sophie Schmieg, Google
 * [ ] Brian Jarvis, Amazon Web Services Inc.
 * [ ] Thomas Bailleux, SandboxAQ
